@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f6f7f9;
+  color: #111;           /* darker text */
+  padding: 40px;
+  margin: 0;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: #111;
+}
+
+input {
+  padding: 12px;
+  width: 350px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  background: white;
+  color: #111;
+}
+
+input:focus {
+  outline: none;
+  border-color: #888;
+}
+
+p {
+  color: #444;
+}
+
+h2 {
+  margin-bottom: 5px;
+  color: #111;
+}
+
+mark {
+  background: #ffeb3b;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 20px 0;
+}
